@@ -13,6 +13,10 @@ Welcome to the Assignments Repository! This repository contains all Assignment 1
 | Project 3      | [Open in Colab](https://colab.research.google.com/drive/18ENr-afntlo2E5QhtHso0Ln8d2-mQImO) |
 | Project 4      | [Open in Colab](https://colab.research.google.com/drive/1dgby3J5akonC1XuvKX9lJGR8z5Bu846S) |
 | Project 5      | [Open in Colab](https://colab.research.google.com/drive/1hvWRIeKI935ETKE97vjI77sBT_UTFu2U) |
+| Project 6      | [Open in Colab](https://colab.research.google.com/drive/1EbyeRF0v6S5tzRST7oVk5YCQ3D1J51zp) |
+| Project 7      | [Open in Colab](https://colab.research.google.com/drive/13EdZovYeT_fURJbR9HGMHHORf425PJTg) |
+| Project 8      | [Open in Colab](https://colab.research.google.com/drive/1Jz5szUk7vOE9DVfeDG7F5GVQHpRxvjX1) |
+| Project 9      | [Open in Colab](https://colab.research.google.com/drive/1ODaHbPUOe5GfBKPixzW2g_WJmTB-cEu1?authuser=0) |
 
 ---
 
